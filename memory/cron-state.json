@@ -10,8 +10,8 @@
     "last_error": "\"refused\":{\"depth_limit\":0,\"concurrency_limit\":0,\"budget\":0},\"by_type\":{}},\"is_error\":true,\"num_turns\":1,\"subtype\":\"success\",\"api_error_status\":402,\"result\":\"API Error: 402 This request requires more "
   },
   "heartbeat": {
-    "last_dispatch": "2026-10-06T02:52:31Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-06T09:48:15Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-06T02:52:58Z",
     "total_runs": 3,
     "total_successes": 0,
