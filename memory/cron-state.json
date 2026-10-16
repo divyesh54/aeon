@@ -11,12 +11,12 @@
   },
   "heartbeat": {
     "last_dispatch": "2026-10-16T08:57:09Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-15T09:26:44Z",
-    "total_runs": 13,
+    "last_status": "failed",
+    "last_failed": "2026-10-16T08:57:36Z",
+    "total_runs": 14,
     "total_successes": 0,
-    "total_failures": 13,
-    "consecutive_failures": 13,
+    "total_failures": 14,
+    "consecutive_failures": 14,
     "success_rate": 0,
     "last_error": "\"refused\":{\"depth_limit\":0,\"concurrency_limit\":0,\"budget\":0},\"by_type\":{}},\"is_error\":true,\"num_turns\":1,\"subtype\":\"success\",\"api_error_status\":402,\"result\":\"API Error: 402 This request requires more "
   }
